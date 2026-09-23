@@ -1,2 +1,2 @@
 # hike-gpu-webgpu
-A sample Hike language library demonstrating external library support through simple WebGPU rendering on an HTML canvas.
+hike-gpu-webgpu is a reusable sample library for the Hike programming language. It demonstrates how Hike applications can import and use external libraries while keeping browser-specific WebGPU objects inside a JavaScript bridge. The library provides a small handle-based API for creating WebGPU contexts, buffers, shader modules, render pipelines, bind groups, and draw commands on an HTML canvas.
